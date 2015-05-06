@@ -2,6 +2,9 @@
 from __future__ import division
 import math
 
+__author__ = "Andrej Mernik, 2015"
+__license__ = "GPLv3"
+
 '''
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
