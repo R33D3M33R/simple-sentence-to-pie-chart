@@ -2,7 +2,8 @@
 from __future__ import division
 import math
 
-__author__ = "Andrej Mernik, 2015"
+__author__ = "Andrej Mernik"
+__copyright__ = "Copyright 2015 Andrej Mernik"
 __license__ = "GPLv3"
 
 '''
